@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="bbb.evanyandle.com" id="95c133e7-cf51-4166-923e-05fc3083d1f7" keyPath="C:\Users\Evan\Downloads\bbb-pk-3.ppk" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+    </configs>
+  </component>
+</project>

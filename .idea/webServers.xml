@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bc39fa33-f9f6-4ef8-a9e6-cb3579d2a8b7" name="bbb.evanyandle.com">
+        <fileTransfer accessType="SFTP" host="bbb.evanyandle.com" port="22" sshConfigId="95c133e7-cf51-4166-923e-05fc3083d1f7" sshConfig="ec2-user@bbb.evanyandle.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
